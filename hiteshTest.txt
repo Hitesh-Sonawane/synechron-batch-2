@@ -1,9 +1,2 @@
-Hello Hitesh.........!
-
-How are you?
-
-
-Its Learning Jenkins now!!!
-
-
-Commit SOme.
+#!/bin/bash
+#"{INFO} This is bash file"
